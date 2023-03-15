@@ -29,7 +29,7 @@
 
 ---
 ## **¿A donde me dirijo?**
-### En estos momentos de mi vida me encuentro en un crecimiento constante en lo espiritual, personal, emocional y profesional. Sin embargo tengo unos objetivos trazados en el cual deseo que de aqui a 1-2 años, pueda conocer ampliamente el desarrollo web en su gran mayoria y haber desarrollado aplicaciones con innovaciones, de aqui a 5 años pueda conocer de otros lenguajes y haber desarrollado aplicaciones que me permitan ofrecer innocaciones y soluciones al crecimiento del desarrollo tecnologico.
+### En estos momentos de mi vida me encuentro en un crecimiento constante en lo espiritual, personal, emocional y profesional. Sin embargo tengo unos objetivos trazados en el cual deseo que de aqui a 1-2 años, pueda conocer ampliamente el desarrollo web en su gran mayoria y haber desarrollado aplicaciones con innovaciones, de aqui a 5 años pueda conocer de otros lenguajes y haber desarrollado aplicaciones que me permitan ofrecer innovaciones y soluciones al crecimiento del desarrollo tecnologico.
 
 ---
 
