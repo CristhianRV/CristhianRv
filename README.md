@@ -83,6 +83,6 @@
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://wa.me/573014719736?text=Que%20tal%20Cristhian,%20soy%20un%20reclutador%20y%20estuve%20averiguando%20un%20poco%20sobre%20ti,%20me%20gustaria%20hablar%20contigo%20y%20hacerte%20una%20propuesta%20laboral.">
 				<img src="https://cdn-icons-png.flaticon.com/512/1383/1383269.png" width="40"></a>
-		<a style="margin-left: 5px;" target="_blank" href="[https://drive.google.com/file/d/1PjjUZBL1E-aX9paOTkls4B2MUEzXVNmT/view?usp=sharing](https://drive.google.com/file/d/1ok6izHJOP7mBvYklVZRzR1bQHAnFEuSg/view?usp=sharing)">
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1ok6izHJOP7mBvYklVZRzR1bQHAnFEuSg/view?usp=sharing">
 					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
       </div>
