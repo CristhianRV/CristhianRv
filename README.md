@@ -77,6 +77,10 @@
 <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/ingenieromecatronico-fullstack/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+	<a   target="_blank" href="https://twitter.com/CristianR1314">
+			<img src="https://cdn3.iconfinder.com/data/icons/3d-applications/512/app_icons_social_media___twitter_logo_tweet_bird_animal_social_network.png"  width="40" style="margin-left: 10px;" ></a>
+	<a   target="_blank" href="https://www.instagram.com/_crisriosv/">
+			<img src="https://i.pinimg.com/564x/2b/21/c2/2b21c2573a15a3647bf48366ff180c60.jpg"  width="35" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/CristhianRV">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="mailto:cristian.riosv0330@gmail.com?subject=Que%20tal%20Cristhian,%20soy%20un%20reclutador%20y%20estuve%20averiguando%20un%20poco%20sobre%20ti,%20me%20gustaria%20hablar%20contigo%20y%20hacerte%20una%20propuesta%20laboral.">
